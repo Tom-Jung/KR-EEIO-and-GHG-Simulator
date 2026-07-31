@@ -1,0 +1,167 @@
+{
+  "year": "2023",
+  "p_type": "경상",
+  "intro_file": "Dashboard_00_Intro_2023.png",
+  "cards": [
+    {
+      "rank": 1,
+      "산업": "전력, 가스 및 증기",
+      "file": "Dashboard_Card_2023_01_전력 가스 및 증기.png"
+    },
+    {
+      "rank": 2,
+      "산업": "1차 금속제품",
+      "file": "Dashboard_Card_2023_02_1차 금속제품.png"
+    },
+    {
+      "rank": 3,
+      "산업": "화학제품",
+      "file": "Dashboard_Card_2023_03_화학제품.png"
+    },
+    {
+      "rank": 4,
+      "산업": "운송서비스",
+      "file": "Dashboard_Card_2023_04_운송서비스.png"
+    },
+    {
+      "rank": 5,
+      "산업": "건설",
+      "file": "Dashboard_Card_2023_05_건설.png"
+    },
+    {
+      "rank": 6,
+      "산업": "운송장비",
+      "file": "Dashboard_Card_2023_06_운송장비.png"
+    },
+    {
+      "rank": 7,
+      "산업": "비금속광물제품",
+      "file": "Dashboard_Card_2023_07_비금속광물제품.png"
+    },
+    {
+      "rank": 8,
+      "산업": "석탄 및 석유제품",
+      "file": "Dashboard_Card_2023_08_석탄 및 석유제품.png"
+    },
+    {
+      "rank": 9,
+      "산업": "컴퓨터, 전자 및 광학기기",
+      "file": "Dashboard_Card_2023_09_컴퓨터 전자 및 광학기기.png"
+    },
+    {
+      "rank": 10,
+      "산업": "음식료품",
+      "file": "Dashboard_Card_2023_10_음식료품.png"
+    },
+    {
+      "rank": 11,
+      "산업": "도소매 및 상품중개서비스",
+      "file": "Dashboard_Card_2023_11_도소매 및 상품중개서비스.png"
+    },
+    {
+      "rank": 12,
+      "산업": "기계 및 장비",
+      "file": "Dashboard_Card_2023_12_기계 및 장비.png"
+    },
+    {
+      "rank": 13,
+      "산업": "전문, 과학 및 기술 서비스",
+      "file": "Dashboard_Card_2023_13_전문 과학 및 기술 서비스.png"
+    },
+    {
+      "rank": 14,
+      "산업": "음식점 및 숙박서비스",
+      "file": "Dashboard_Card_2023_14_음식점 및 숙박서비스.png"
+    },
+    {
+      "rank": 15,
+      "산업": "농림수산품",
+      "file": "Dashboard_Card_2023_15_농림수산품.png"
+    },
+    {
+      "rank": 16,
+      "산업": "금속가공제품",
+      "file": "Dashboard_Card_2023_16_금속가공제품.png"
+    },
+    {
+      "rank": 17,
+      "산업": "전기장비",
+      "file": "Dashboard_Card_2023_17_전기장비.png"
+    },
+    {
+      "rank": 18,
+      "산업": "수도, 폐기물처리 및 재활용서비스",
+      "file": "Dashboard_Card_2023_18_수도 폐기물처리 및 재활용서비스.png"
+    },
+    {
+      "rank": 19,
+      "산업": "보건 및 사회복지 서비스",
+      "file": "Dashboard_Card_2023_19_보건 및 사회복지 서비스.png"
+    },
+    {
+      "rank": 20,
+      "산업": "공공행정, 국방 및 사회보장",
+      "file": "Dashboard_Card_2023_20_공공행정 국방 및 사회보장.png"
+    },
+    {
+      "rank": 21,
+      "산업": "교육서비스",
+      "file": "Dashboard_Card_2023_21_교육서비스.png"
+    },
+    {
+      "rank": 22,
+      "산업": "목재 및 종이, 인쇄",
+      "file": "Dashboard_Card_2023_22_목재 및 종이 인쇄.png"
+    },
+    {
+      "rank": 23,
+      "산업": "섬유 및 가죽제품",
+      "file": "Dashboard_Card_2023_23_섬유 및 가죽제품.png"
+    },
+    {
+      "rank": 24,
+      "산업": "부동산서비스",
+      "file": "Dashboard_Card_2023_24_부동산서비스.png"
+    },
+    {
+      "rank": 25,
+      "산업": "제조임가공 및 산업용 장비 수리",
+      "file": "Dashboard_Card_2023_25_제조임가공 및 산업용 장비 수리.png"
+    },
+    {
+      "rank": 26,
+      "산업": "정보통신 및 방송 서비스",
+      "file": "Dashboard_Card_2023_26_정보통신 및 방송 서비스.png"
+    },
+    {
+      "rank": 27,
+      "산업": "기타 서비스",
+      "file": "Dashboard_Card_2023_27_기타 서비스.png"
+    },
+    {
+      "rank": 28,
+      "산업": "사업지원서비스",
+      "file": "Dashboard_Card_2023_28_사업지원서비스.png"
+    },
+    {
+      "rank": 29,
+      "산업": "기타 제조업 제품",
+      "file": "Dashboard_Card_2023_29_기타 제조업 제품.png"
+    },
+    {
+      "rank": 30,
+      "산업": "금융 및 보험 서비스",
+      "file": "Dashboard_Card_2023_30_금융 및 보험 서비스.png"
+    },
+    {
+      "rank": 31,
+      "산업": "예술, 스포츠 및 여가 관련 서비스",
+      "file": "Dashboard_Card_2023_31_예술 스포츠 및 여가 관련 서비스.png"
+    },
+    {
+      "rank": 32,
+      "산업": "광산품",
+      "file": "Dashboard_Card_2023_32_광산품.png"
+    }
+  ]
+}
